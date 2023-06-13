@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: bsignbkc/express-sample-project:staging
+          tags: tunglt2k2/first-github-test:demo
 
 
   pull-and-up:
